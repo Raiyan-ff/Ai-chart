@@ -1,0 +1,6 @@
+{
+  "name": "Quotex AI Trading Analyzer",
+  "description": "Professional Quotex AI trading assistant that analyzes chart screenshots to predict the next UP or DOWN action with market insights and technical strategies.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
